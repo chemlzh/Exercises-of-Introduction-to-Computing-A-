@@ -1,7 +1,7 @@
 #include <algorithm>
 #include <cstdio>
 using namespace std;
-long a[205], b[205],tmp, cnt, cnt1, flag;
+long a[205], b[205], tmp, cnt, cnt1, flag;
 char c;
 inline void insert(long num,long &mcnt,long m[]) {
 	long p = mcnt;
